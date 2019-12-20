@@ -1,4 +1,5 @@
-# 3D-Cube-Animation-p5.js
+# 3D-Cube-Animation-p5.js :lollipop:
+
 
 <h>Interactive cube animations done in p5.js.</h>
 
